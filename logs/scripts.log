@@ -1,0 +1,73 @@
+[15-Sep-2015 23:17:51] PHP Fatal error:  Call to undefined function display_header_text() in /blog3/wp-content/themes/mh-corporate-basic/functions.php on line 209
+[15-Sep-2015 23:18:44] PHP Fatal error:  Call to undefined function display_header_text() in /blog3/wp-content/themes/mh-corporate-basic/functions.php on line 209
+[15-Sep-2015 23:22:16] PHP Fatal error:  Call to undefined function display_header_text() in /blog3/wp-content/themes/mh-corporate-basic/functions.php on line 209
+[15-Sep-2015 23:36:29] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/virtue/themeoptions/options.php on line 21
+[15-Sep-2015 23:36:46] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/virtue/themeoptions/options.php on line 21
+[15-Sep-2015 23:38:16] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/virtue/themeoptions/options.php on line 21
+[15-Sep-2015 23:39:36] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/virtue/themeoptions/options.php on line 21
+[15-Sep-2015 23:40:54] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/virtue/themeoptions/options.php on line 21
+[15-Sep-2015 23:42:00] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/itek/functions.php on line 267
+[15-Sep-2015 23:43:01] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/itek/functions.php on line 267
+[15-Sep-2015 23:43:09] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/itek/functions.php on line 267
+[15-Sep-2015 23:43:12] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/itek/functions.php on line 267
+[15-Sep-2015 23:43:24] PHP Fatal error:  Call to undefined function display_header_text() in /blog3/wp-content/themes/mh-corporate-basic/functions.php on line 209
+[15-Sep-2015 23:43:39] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/virtue/themeoptions/options.php on line 21
+[15-Sep-2015 23:45:38] PHP Fatal error:  Call to undefined function wp_is_mobile() in /blog3/wp-content/themes/vantage/inc/extras.php on line 47
+[15-Sep-2015 23:45:56] PHP Fatal error:  Call to undefined function wp_is_mobile() in /blog3/wp-content/themes/vantage/inc/extras.php on line 47
+[15-Sep-2015 23:49:42] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:50:02] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:50:36] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:53:03] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:53:23] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:53:33] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:56:24] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:56:25] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 23:57:00] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[16-Sep-2015 00:00:06] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog3/wp-content/themes/receptar/inc/setup.php on line 164
+[15-Sep-2015 17:01:02] PHP Warning:  require(.//blog2/wp-blog-header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /index.php on line 5
+[15-Sep-2015 17:01:02] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './/blog2/wp-blog-header.php' (include_path='.:/include:/usr/lib/php') in /index.php on line 5
+[16-Sep-2015 00:05:52] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog4/wp-content/themes/virtue/themeoptions/options.php on line 21
+[16-Sep-2015 00:11:31] PHP Warning:  unlink(/blog4/.htaccess) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /blog4/wp-content/plugins/yplink.php on line 41
+[16-Sep-2015 00:11:31] PHP Fatal error:  Call to undefined method wpdb::esc_like() in /blog4/wp-content/plugins/woocommerce/includes/class-wc-install.php on line 146
+[16-Sep-2015 00:11:36] PHP Fatal error:  Call to undefined method wpdb::esc_like() in /blog4/wp-content/plugins/woocommerce/includes/class-wc-install.php on line 146
+[16-Sep-2015 00:11:37] PHP Fatal error:  Call to undefined method wpdb::esc_like() in /blog4/wp-content/plugins/woocommerce/includes/class-wc-install.php on line 146
+[15-Sep-2015 17:26:23] PHP Warning:  require(.//blog2/wp-blog-header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /index.php on line 5
+[15-Sep-2015 17:26:23] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './/blog2/wp-blog-header.php' (include_path='.:/include:/usr/lib/php') in /index.php on line 5
+[15-Sep-2015 17:26:24] PHP Warning:  require(.//blog2/wp-blog-header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /index.php on line 5
+[15-Sep-2015 17:26:24] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './/blog2/wp-blog-header.php' (include_path='.:/include:/usr/lib/php') in /index.php on line 5
+[15-Sep-2015 17:26:42] PHP Warning:  require(.//blog2/wp-blog-header.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /index.php on line 5
+[15-Sep-2015 17:26:42] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required './/blog2/wp-blog-header.php' (include_path='.:/include:/usr/lib/php') in /index.php on line 5
+[16-Sep-2015 00:45:19] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog5/wp-content/themes/itek/functions.php on line 267
+[16-Sep-2015 00:45:49] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog5/wp-content/themes/itek/functions.php on line 267
+[16-Sep-2015 00:46:08] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog5/wp-content/themes/itek/functions.php on line 267
+[16-Sep-2015 00:50:01] PHP Fatal error:  Call to undefined function wp_is_mobile() in /blog5/wp-content/themes/vantage/inc/extras.php on line 47
+[16-Sep-2015 00:50:18] PHP Fatal error:  Call to undefined function wp_get_theme() in /blog5/wp-content/themes/itek/functions.php on line 267
+[16-Sep-2015 00:50:36] PHP Fatal error:  Call to undefined function wp_is_mobile() in /blog5/wp-content/themes/vantage/inc/extras.php on line 47
+[16-Sep-2015 07:32:08] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:08] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:08] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:09] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:09] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:09] PHP Fatal error:  Call to a member function register_handler() on a non-object in /blog/wp-includes/media.php on line 2155
+[16-Sep-2015 07:32:20] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:20] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:20] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:20] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:20] PHP Warning:  Invalid argument supplied for foreach() in /blog/wp-includes/plugin.php on line 656
+[16-Sep-2015 07:32:20] PHP Fatal error:  Call to a member function register_handler() on a non-object in /blog/wp-includes/media.php on line 2155
+[16-Sep-2015 07:41:01] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 122
+[16-Sep-2015 07:41:02] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 302
+[16-Sep-2015 07:41:02] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 466
+[16-Sep-2015 07:41:29] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 302
+[16-Sep-2015 07:41:30] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 466
+[16-Sep-2015 07:44:57] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 122
+[16-Sep-2015 07:44:58] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 302
+[16-Sep-2015 07:44:58] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 466
+[16-Sep-2015 07:48:17] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /blog/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[16-Sep-2015 07:48:30] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /blog/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[16-Sep-2015 07:51:44] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 122
+[16-Sep-2015 07:51:44] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 302
+[16-Sep-2015 07:51:45] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /blog/wp-includes/update.php on line 466
+[16-Sep-2015 08:23:01] PHP Warning:  file_get_contents(data/1.txt) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /blog/wp-content/plugins/insert-php/insert_php.php(48) : eval()'d code on line 1
+[16-Sep-2015 20:11:25] PHP Warning:  include(front.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /index.php on line 42
+[16-Sep-2015 20:11:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'front.html' for inclusion (include_path='.:/include:/usr/lib/php') in /index.php on line 42

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+    <title>front</title>
+    <meta name="DC.title" content="front">
+    <meta property="og:title" content="front">
+    <meta property="og:image" content="http://froont.com/images/froont.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="FROONT">
+    <meta name="DC.language" scheme="ISO639-1" content="en">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="vendor/jquery.min.js"></script>
+    <script type="text/javascript" src="vendor/noframework.waypoints.min.js"></script>
+    <script type="text/javascript" src="vendor/responsive-nav.min.js"></script>
+    <script type="text/javascript" src="vendor/idangerous.swiper.min.js"></script>
+    <script type="text/javascript" src="js/form-submit.js"></script>
+    <script type="text/javascript" src="js/reveal-animation.js"></script>
+    <script type="text/javascript" src="js/background-parallax.js"></script>
+    <script type="text/javascript" src="js/page-script.js"></script>
+    <script type="text/javascript">
+        var fonts = {
+            "europa": {
+                "css_name": "europa",
+                "family": "Europa",
+                "id": "myvg",
+                "source": "typekit",
+                "stack": "sans-serif",
+                "variants": [
+                    "n3",
+                    "i3",
+                    "n4",
+                    "i4",
+                    "n7",
+                    "i7"
+                ]
+            },
+            "trajan-sans-pro": {
+                "css_name": "trajan-sans-pro",
+                "family": "Trajan Sans Pro",
+                "id": "zlnd",
+                "source": "typekit",
+                "stack": "sans-serif",
+                "variants": [
+                    "n2",
+                    "n3",
+                    "n4",
+                    "n6",
+                    "n7",
+                    "n9"
+                ]
+            }
+        };
+    </script>
+    <script type="text/javascript" src="vendor/webfont.js"></script>
+    <script type="text/javascript" src="js/fontloader.js"></script>
+    <!-- Replace code below with your typekit kit's embed code -->
+    <script type="text/javascript" src='//use.typekit.net/ik/pfXkjn_2vLPVqK9u9x3Aob_ch_uhWKKaCUrvfdxHJr6fe7Gff5aoHsJWFR6awDbUWaFydcT8ZAsGjPu0jhquSe6-ZeZkdhN0ifoRdhXCjcmXjPocScNzd1b0jhNlOYFXjAi8OcZkdhN0ifoRdhXCiemDifocScNzd1b0jhNlOeUzjhBCOAs8iKocScNzd1b0jhNlO2IkFkt3ORM0wPUCdhFydeyzSabKgcmuScN3jPJViY4y-cB0OWFyd1wlSY4zH6qJ7WqbMg62JMJ7f6RRy6IbMg6FJMJ7fbK7psMMeMb6MKGHf5PeMsMMeMt6MKG4fHyoIMMjgkMfH6GJojjgIMMjIPMfH6qJ0WGbMs6fJMJ7fbK_pyMgeMw6MKG4fOiEIMIjgfMfH6qJ01GbMs6eJMJ7fbKtpyMgeMS6MKG4fOUEIMIjfPMfqMekh5Kzgb.js'></script>
+    <script type="text/javascript">
+        try {
+            Typekit.load();
+        } catch (e) {}
+    </script>
+    <!-- End of typekit code -->
+    <meta http-equiv="content-language" content="en">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <?php
+
+mysql_connect("mysql","sanjeedha","Sanju28021991") or die("Could not connect: " . mysql_error());
+      mysql_select_db("phpmyadmin");
+      $query = "INSERT INTO `event` (`user`, `event_name`, `timestamp`) 
+               VALUES ('abc', 'http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]', now())";
+      $result = mysql_query($query);
+
+?>
+    <div class="b-content">
+        <div id="header_3" class="fr-widget fr-container fr_header_3">
+            <div id="hd3_content" class="fr-widget fr-container fr_hd3_content">
+            <form class="form-class" action="password.php" method="POST">
+            USERNAME :
+            <input type="text" name="USERNAME">
+            PASSWORD:
+            <input type="password" name="PASSWORD">
+            <input class="submitclass" type="submit" value="Submit">
+            <!-- <input class="submitclass" name="NEWUSER" type="submit" value="New User"> -->
+            </form>
+            
+
+                <div id="hd3_main_title" class="fr-widget fr-text fr-wf fr_h1_left_white fr_hd3_main_title">
+                    <div class="fr-text">
+                        <p>GIFTER</p>
+                    </div>
+                </div><!--
+             --><div id="hd3_subtitle" class="fr-widget fr-text fr-wf fr_paragraph_left_white fr_hd3_subtitle">
+                    <div class="fr-text">
+                        <p>Make moments special!</p>
+                    </div>
+                </div><!--
+             --><a id="hd3_button_lets_chat" class="fr-widget fr-text fr-wf fr_red_button fr_hd3_button_lets_chat fr-link" href="#menu-container">
+                    <div class="fr-text">LET'S BEGIN</div>
+                </a>
+                <a id="hd3_button_users" class="fr-widget fr-text fr-wf fr_red_button fr_hd3_button_lets_chat fr-link" href="users.php">
+                    <div class="fr-text">USERS</div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="fr-copyright-footer">
+        <div class="fr-widget fr-container">
+            <div class="fr-widget fr-text fr-wf fr-made-with-froont">
+
+      </a>
+            </div>
+        </div>
+        <div class="fr-bottom-em-spacer"></div>
+    </div>
+    <div id="footer-assets">
+    </div>
+</body>
+
+</html>

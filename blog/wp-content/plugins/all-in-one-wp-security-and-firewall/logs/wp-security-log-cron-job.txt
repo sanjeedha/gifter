@@ -1,0 +1,3 @@
+[07/21/2014 8:44 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
+[07/21/2014 9:47 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
+[07/21/2014 10:51 AM] - SUCCESS : Cronjob_Handler - Hourly cron handler got fired.
